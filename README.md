@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app take API from https://www.themealdb.com/api.php
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/Denuvo33/meal_db-App/assets/106959180/9def7b70-34ba-4480-a06a-59742b27a80e" width=270 >
+<img src="https://github.com/Denuvo33/meal_db-App/assets/106959180/8c91f887-1516-4104-b19c-8a1ceb4fd61d" width=270 >
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
